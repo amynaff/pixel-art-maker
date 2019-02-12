@@ -1,10 +1,15 @@
-# pixel-art-maker
- Clone repo and open in your text editor.
+#Pixel Art Maker Project
 
- Open the index.html file in your favorite browser.  
- 
- Submit the height and width you would like to have your grid box.  Max 100. 
- Select color you would like to create your design with.
+#Table of Contents
+-Instructions
+-Contributing
 
- Enjoy!  
+#Instructions
+Clone or download to your IDE or Text Editor and run index.html in your browser of choice.
+
+Choose the number of cells, width and height, that you would like your grid to be(max 100).  Choose your color and design your pixel art.  
+
+#Contributing
+This repository is the starter code for all Udacity students. This is a beginner project learning Web Dev. The HTML and CSS were given and the JavaScript was to be written from scratch.  
+
 
